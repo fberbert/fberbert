@@ -1,6 +1,6 @@
 # Olá, Fábio falando...
 
-[![](https://raw.githubusercontent.com/fberbert/fberbert/banner.svg)](https://automatizando.dev)
+![banner animado](https://raw.githubusercontent.com/fberbert/fberbert/banner.svg)
 
 ## Desenvolvedor Full Stack e Especialista em Automação Residencial
 

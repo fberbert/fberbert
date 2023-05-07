@@ -1,5 +1,7 @@
 # Olá, Fábio falando...
 
+[![](https://raw.githubusercontent.com/fberbert/fberbert/banner.svg)](https://automatizando.dev)
+
 ## Desenvolvedor Full Stack e Especialista em Automação Residencial
 
 :computer: Com mais de 20 anos de experiência em desenvolvimento, tenho amplo conhecimento em tecnologias como JavaScript, React, React Native, AWS, Python, Shell Script e GNU/Linux.

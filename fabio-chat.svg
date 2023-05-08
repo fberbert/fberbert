@@ -377,6 +377,6 @@
   <!-- good bye -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="230" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Espero que tenha um ótimo dia! <tspan class="emoji">😎</tspan></text>  
+    <text x="15" y="27">Espero que tenha um ótimo dia! :)</text>  
   </g>
 </svg>

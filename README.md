@@ -1,6 +1,6 @@
-# Finalmente você chegou aqui!
+# Finalmente você chegou!
 
-![banner animado](https://raw.githubusercontent.com/fberbert/fberbert/main/chat1.svg)
+![banner animado](https://raw.githubusercontent.com/fberbert/fberbert/main/fabio-chat.svg)
 
 ## Desenvolvedor Full Stack e Especialista em Automação Residencial
 

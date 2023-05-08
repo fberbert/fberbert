@@ -1,6 +1,6 @@
 # Olá, Fábio falando...
 
-![banner animado](https://raw.githubusercontent.com/fberbert/fberbert/main/banner4.svg)
+![banner animado](https://raw.githubusercontent.com/fberbert/fberbert/main/talking-robot.gif)
 
 ## Desenvolvedor Full Stack e Especialista em Automação Residencial
 

@@ -1,20 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
-  <text x="20" y="40" font-family="monospace" font-size="24" fill="#000">
-    <tspan x="20" y="40">
-      Olá, Fábio falando...
-      <animate attributeName="textLength" from="0" to="100%" dur="2s" begin="0s" fill="freeze" />
-    </tspan>
-    <tspan x="20" y="80">
-      Seja bem vindo ao meu GitHub!
-      <animate attributeName="textLength" from="0" to="100%" dur="2s" begin="2s" fill="freeze" />
-    </tspan>
-    <tspan x="20" y="120">
-      Estou procurando trabalho...
-      <animate attributeName="textLength" from="0" to="100%" dur="2s" begin="4s" fill="freeze" />
-    </tspan>
-    <tspan x="20" y="160">
-      Informações de contato no final da página.
-      <animate attributeName="textLength" from="0" to="100%" dur="2s" begin="6s" fill="freeze" />
-    </tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="600" height="100">
+  <style>
+    @keyframes typewriter {
+      from {
+        width: 0;
+      }
+    }
+
+    .text {
+      font-family: monospace;
+      font-size: 24px;
+      fill: white;
+      animation: typewriter 4s steps(30) infinite;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black" />
+  <text class="text" x="10" y="50">
+    <tspan dx="0" dy="0">Olá, Fábio falando...</tspan>
+    <tspan dx="-170" dy="25">Seja bem vindo ao meu GitHub!</tspan>
+    <tspan dx="-320" dy="25">Estou procurando trabalho...</tspan>
+    <tspan dx="-520" dy="25">Informações de contato no final da página.</tspan>
   </text>
 </svg>

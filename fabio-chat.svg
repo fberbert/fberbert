@@ -245,12 +245,11 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
   <!-- frame 1 -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="200" height="42" rx="18.0355" />
+    <rect width="230" height="42" rx="18.0355" />
     <text x="15" y="27">Olá, meu nome é Fábio!</text>
   </g>
 
@@ -269,13 +268,13 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
   <!-- frame 2 -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="300" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Seja bem vindo ao meu GitHub.</text>
+    <text x="15" y="27">É um prazer tê-lo por aqui.</text>
   </g>
 
   <!-- typing 3 -->
@@ -298,7 +297,7 @@
 
   <!-- frame 3 -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="300" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="360" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Sou desenvolvedor full stack e inventor </text>
     <text x="15" y="50">nas horas vagas...</text>
 

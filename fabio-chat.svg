@@ -274,7 +274,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="300" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Seja bem vindo ao meu GitHub.</text>
-    <text x="15" y="27">É um prazer tê-lo por aqui.</text>
+    <text x="15" y="50">É um prazer tê-lo por aqui.</text>
   </g>
 
   <!-- typing 3 -->
@@ -325,8 +325,8 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      Você pode falar comigo pelo email
+      <a xlink:href="mailto:fberbert@gmail.com">fberbert@gmail.com</a>
     </text>
   </g>
 

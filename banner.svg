@@ -15,7 +15,7 @@
   </style>
   <rect width="100%" height="100%" fill="black" />
   <text class="text" x="10" y="50">
-    <tspan dx="0" dy="0">Olá, Fábio falando...</tspan>
+    <tspan dx="0" dy="0">Olá, Fábio 2 falando...</tspan>
     <tspan dx="-170" dy="25">Seja bem vindo ao meu GitHub!</tspan>
     <tspan dx="-320" dy="25">Estou procurando trabalho...</tspan>
     <tspan dx="-520" dy="25">Informações de contato no final da página.</tspan>

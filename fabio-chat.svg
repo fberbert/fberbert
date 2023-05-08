@@ -250,7 +250,7 @@
 
   <!-- frame 1 -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
+    <rect width="280" height="42" rx="18.0355" />
     <text x="15" y="27">Olá, meu nome é Fábio!</text>
   </g>
 
@@ -272,11 +272,10 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- frame 2 -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
-    <text x="15" y="50">76° F (24° C) and <tspan class="emoji">🌥</tspan> today.</text>
+    <rect width="439" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Seja bem vindo ao meu GitHub.</text>
   </g>
 
   <!-- typing 3 -->

@@ -1,40 +1,38 @@
-# Finalmente você chegou!
+# Full-Stack Developer & AI Engineer
 
 ![banner animado](https://raw.githubusercontent.com/fberbert/fberbert/main/fabio-chat.svg)
 
-## Desenvolvedor Full Stack e Especialista em Automação Residencial
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fberbert&show_icons=true)](https://github.com/fberbert)  
+[![Tech Stack](https://img.shields.io/badge/Stack-Node.js%20%7C%20FastAPI%20%7C%20React%20%7C%20LLMs-blue)](https://github.com/fberbert)  
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fberbert.fberbert)](https://visitor-badge.glitch.me)
 
-:computer: Com mais de 25 anos de experiência em desenvolvimento, tenho amplo conhecimento em tecnologias como Inteligência Artificial, JavaScript, React, React Native, AWS, Python, Shell Script e GNU/Linux.
+## About Me
 
-:moneybag: Apaixonado por tecnologia, Inteligência Artificial e criptomoedas, possuo habilidades em modelagem de dados, infraestrutura de rede, domínio avançado de Linux, implementação de micro-serviços, APIs, JSON, YAML e desenvolvimento de skills para Alexa.
+Full-stack developer and AI engineer focused on building scalable platforms and real-world products powered by automation and LLMs. I design, ship, and own systems end-to-end — from backend and infrastructure to front-end experience and AI orchestration.
 
-:house_with_garden: Especialista em automação residencial com foco em Home Assistant, JavaScript e Inteligência Artificial. Fundador e mantenedor do portal Viva 0 Linux, além de produtor de conteúdo no YouTube no canal Cotidiano Hackeado e no Instagram sob o perfil @alexabolada.
+## Core Skills
 
-## Experiência Profissional
+**Languages:** TypeScript · JavaScript · Python · SQL · Bash  
+**Backend:** Node.js · FastAPI · Express · NestJS  
+**Frontend:** React · Next.js · React Native  
+**AI & Automation:** Large Language Models · LangChain · OpenAI · RAG · Agents · Vector Databases  
+**Data & Infrastructure:** PostgreSQL · Redis · Docker · Supabase · Linux · CI/CD · AWS  
+**Tools:** Git · VS Code · NeoVim · Postman
 
-- Viva 0 Linux - Desenvolvedor Full Stack (Nov 2002 - Presente)
-- Provedor ISM, RJ - Desenvolvedor Full Stack (Jan 2001 - Dez 2004)
-- Linux Solutions, RJ - Analista de Suporte Sênior e Dev Full Stack (Jan 2000 - Dez 2000)
+## Featured Projects
 
-## Formação
+| Project | Description |
+|---------|-------------|
+| **AI Marketing Agent (4M+ customers)** | Autonomous agent driving marketing campaigns for over 4 million customers at a major Brazilian retailer using high-volume data, prompt engineering, and FastAPI. |
+| **EspoCRM Custom Modules & Plugins** | Enterprise edition CRM solutions — custom module design, plugin development, system integrations and automation workflows. |
+| **Viva o Linux (Open Source Project)** | Long-standing open-source initiative focused on Linux education and advocacy — building community, tutorials and tooling. |
 
-- Análise de Sistemas de Computação, Estácio - Bacharel (Jan 1996 - Dez 1999)
-  - Infelizmente, não obtive o diploma formalmente devido à extinção do curso.
+## Get in Touch
 
-## Idiomas
-
-- Inglês: Domínio avançado a fluente
-
-## Certificações
-
-- LPI (Linux Professional Institute) - Emitido em 1999
-- JavaScript (avançado) - HackerRank - Emitido em Jul 2022
-- Skill Badges do Linkedin: Python, SEO, Linux, Javascript, CSS, Android, HTML, JQuery, AWS, MongoDB
-
-## Considerações Finais
-
-Autodidata, dedicado e com excelentes habilidades de comunicação e relacionamento interpessoal. Motivado por desafios e persistentemente buscando soluções para os problemas. Atualmente, atuo como profissional autônomo e estou interessado em me reintegrar ao ambiente empresarial.
+I’m currently open for new full-stack engineering roles where I can leverage AI, automation and product-ownership.  
+[Let’s connect on LinkedIn](https://www.linkedin.com/in/fabio-linux)  
 
 ---
 
-:email: Entre em contato comigo através do meu perfil no [LinkedIn](https://www.linkedin.com/in/seu_perfil_linkedin) ou envie um e-mail para fberbert@gmail.com.
+*Thanks for visiting my profile.*  
+

@@ -250,7 +250,7 @@
   <!-- frame 1 -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="230" height="42" rx="18.0355" />
-    <text x="15" y="27">Olá, meu nome é Fábio!</text>
+    <text x="15" y="27">Hello, my name is Fábio</text>
   </g>
 
   <!-- typing 2 -->
@@ -273,8 +273,8 @@
   <!-- frame 2 -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="300" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Seja bem vindo ao meu GitHub.</text>
-    <text x="15" y="50">É um prazer tê-lo por aqui.</text>
+    <text x="15" y="27">Welcome to my GitHub.</text>
+    <text x="15" y="50">It's a pleasure to have you here.</text>
   </g>
 
   <!-- typing 3 -->
@@ -298,8 +298,8 @@
   <!-- frame 3 -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="360" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Sou desenvolvedor full stack e inventor </text>
-    <text x="15" y="50">nas horas vagas...</text>
+    <text x="15" y="27">I am a full stack developer and inventor </text>
+    <text x="15" y="50">in my spare time...</text>
 
   </g>
 
@@ -325,7 +325,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      Você pode falar comigo pelo email
+      You can talk to me by email
       <a xlink:href="mailto:fberbert@gmail.com">fberbert@gmail.com</a>
     </text>
   </g>
@@ -351,7 +351,7 @@
   <!-- frame 5-->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="285" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Estou procurando trabalho...</text>
+    <text x="15" y="27">I am open to job opportunities</text>
   </g>
 
   <!-- typing 6 -->
@@ -375,6 +375,6 @@
   <!-- frame 6 -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="230" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Tenha um ótimo dia! <tspan class="emoji">🤗</tspan></text>  
+    <text x="15" y="27">Have a nice day! <tspan class="emoji">🤗</tspan></text>  
   </g>
 </svg>

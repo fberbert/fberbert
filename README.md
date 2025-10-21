@@ -4,9 +4,9 @@
 
 ## Desenvolvedor Full Stack e Especialista em Automação Residencial
 
-:computer: Com mais de 20 anos de experiência em desenvolvimento, tenho amplo conhecimento em tecnologias como JavaScript, React, React Native, AWS, Python, Shell Script e GNU/Linux.
+:computer: Com mais de 25 anos de experiência em desenvolvimento, tenho amplo conhecimento em tecnologias como Inteligência Artificial, JavaScript, React, React Native, AWS, Python, Shell Script e GNU/Linux.
 
-:moneybag: Apaixonado por criptomoedas e Inteligência Artificial, possuo habilidades em modelagem de dados, consultas SQL, infraestrutura de rede, domínio avançado de Linux, implementação de serviços, APIs, JSON, YAML e desenvolvimento de skills para Alexa.
+:moneybag: Apaixonado por tecnologia, Inteligência Artificial e criptomoedas, possuo habilidades em modelagem de dados, infraestrutura de rede, domínio avançado de Linux, implementação de micro-serviços, APIs, JSON, YAML e desenvolvimento de skills para Alexa.
 
 :house_with_garden: Especialista em automação residencial com foco em Home Assistant, JavaScript e Inteligência Artificial. Fundador e mantenedor do portal Viva 0 Linux, além de produtor de conteúdo no YouTube no canal Cotidiano Hackeado e no Instagram sob o perfil @alexabolada.
 

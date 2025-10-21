@@ -1,10 +1,7 @@
 # Full-Stack Developer & AI Engineer
+[![Tech Stack](https://img.shields.io/badge/Stack-Node.js%20%7C%20FastAPI%20%7C%20React%20%7C%20LLMs-blue)](https://github.com/fberbert)  
 
 ![banner animado](https://raw.githubusercontent.com/fberbert/fberbert/main/fabio-chat.svg)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fberbert&show_icons=true)](https://github.com/fberbert)  
-[![Tech Stack](https://img.shields.io/badge/Stack-Node.js%20%7C%20FastAPI%20%7C%20React%20%7C%20LLMs-blue)](https://github.com/fberbert)  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fberbert.fberbert)](https://visitor-badge.glitch.me)
 
 ## About Me
 
